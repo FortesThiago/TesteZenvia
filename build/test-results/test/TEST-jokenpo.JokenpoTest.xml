@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jokenpo.JokenpoTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2020-04-07T18:06:59" hostname="FORTES-PC" time="0.06">
+  <properties/>
+  <testcase name="pedraGanhaTesoura" classname="jokenpo.JokenpoTest" time="0.007"/>
+  <testcase name="tesouraEmpataComTesoura" classname="jokenpo.JokenpoTest" time="0.001"/>
+  <testcase name="papelEmpataComPapel" classname="jokenpo.JokenpoTest" time="0.003"/>
+  <testcase name="jogador2_invalido" classname="jokenpo.JokenpoTest" time="0.002"/>
+  <testcase name="jogador1_invalido" classname="jokenpo.JokenpoTest" time="0.005"/>
+  <testcase name="papelGanhaPedra" classname="jokenpo.JokenpoTest" time="0.002"/>
+  <testcase name="pedraGanhaTesoura_jogador2" classname="jokenpo.JokenpoTest" time="0.002"/>
+  <testcase name="tesouraGanhaPapel_jogador2" classname="jokenpo.JokenpoTest" time="0.002"/>
+  <testcase name="papelGanhaPedra_jogador2" classname="jokenpo.JokenpoTest" time="0.006"/>
+  <testcase name="tesouraGanhaPapel" classname="jokenpo.JokenpoTest" time="0.001"/>
+  <testcase name="pedraEmpataComPedra" classname="jokenpo.JokenpoTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
